@@ -1,0 +1,12 @@
+{
+  "griddysound": {
+    "category": "neutral",
+    "subtitle": "subtitles.griddysound",
+    "sounds": [
+      {
+        "name": "griddy_zombies:fortnite-get-griddy-emote-music-audio-made-with-voicemod-technology_1",
+        "stream": false
+      }
+    ]
+  }
+}

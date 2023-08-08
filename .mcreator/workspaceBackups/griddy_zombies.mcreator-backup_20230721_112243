@@ -1,0 +1,54 @@
+{
+  "mod_elements": [
+    {
+      "name": "GriddyZombie",
+      "type": "animatedentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "griddy_zombie",
+      "metadata": {
+        "files": [
+          "src/main/java/killercube/griddyzombies/client/renderer/GriddyZombieRenderer.java",
+          "src/main/java/killercube/griddyzombies/entity/model/GriddyZombieModel.java",
+          "src/main/resources/data/griddy_zombies/forge/biome_modifier/griddy_zombie_biome_modifier.json",
+          "src/main/java/killercube/griddyzombies/entity/GriddyZombieEntity.java",
+          "src/main/resources/assets/griddy_zombies/models/item/griddy_zombie_spawn_egg.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "subtitles.griddy": "",
+      "item.griddy_zombies.griddy_zombie_spawn_egg": "Griddy Zombie Spawn Egg",
+      "entity.griddy_zombies.griddy_zombie": "Griddy Zombie"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "griddy_zombies",
+    "modName": "Griddy Zombies",
+    "version": "1.0.0",
+    "author": "PC, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "killercube.griddyzombies",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
